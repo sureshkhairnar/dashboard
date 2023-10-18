@@ -15,13 +15,6 @@ import {
   Typography,
 } from '@mui/material'
 import SearchIcon from '@mui/icons-material/Search'
-import Image1 from '../images/nature1.jpg'
-import Image2 from '../images/nature2.webp'
-import Image3 from '../images/nature3.jpg'
-import Image4 from '../images/nature4.jpg'
-import Image5 from '../images/nature5.jpg'
-import Image6 from '../images/nature6.jpg'
-import Image7 from '../images/nature7.jpg'
 
 const sample = [
   [
@@ -29,7 +22,7 @@ const sample = [
     '32 in stock',
     '$ 45.99',
     20,
-    Image1,
+    'https://thumbs.dreamstime.com/b/environment-earth-day-hands-trees-growing-seedlings-bokeh-green-background-female-hand-holding-tree-nature-field-gra-130247647.jpg',
     'lorem ipsum is very good for dummy text in our project',
   ],
   [
@@ -37,7 +30,7 @@ const sample = [
     '32 in stock',
     '$ 45.99',
     20,
-    Image2,
+    'https://static.vecteezy.com/system/resources/previews/022/448/291/non_2x/save-earth-day-poster-environment-day-nature-green-ai-generative-glossy-background-images-tree-and-water-free-photo.jpg',
     'lorem ipsum is very good for dummy text in our project',
   ],
   [
@@ -45,7 +38,7 @@ const sample = [
     '32 in stock',
     '$ 45.99',
     20,
-    Image3,
+    'https://thumbs.dreamstime.com/b/environment-earth-day-hands-trees-growing-seedlings-bokeh-green-background-female-hand-holding-tree-nature-field-gra-130247647.jpg',
     'lorem ipsum is very good for dummy text in our project',
   ],
   [
@@ -53,7 +46,7 @@ const sample = [
     '32 in stock',
     '$ 45.99',
     20,
-    Image4,
+    'https://static.vecteezy.com/system/resources/previews/022/448/291/non_2x/save-earth-day-poster-environment-day-nature-green-ai-generative-glossy-background-images-tree-and-water-free-photo.jpg',
     'lorem ipsum is very good for dummy text in our project',
   ],
   [
@@ -61,7 +54,7 @@ const sample = [
     '32 in stock',
     '$ 45.99',
     20,
-    Image5,
+    'https://thumbs.dreamstime.com/b/environment-earth-day-hands-trees-growing-seedlings-bokeh-green-background-female-hand-holding-tree-nature-field-gra-130247647.jpg',
     'lorem ipsum is very good for dummy text in our project',
   ],
   [
@@ -69,7 +62,7 @@ const sample = [
     '32 in stock',
     '$ 45.99',
     20,
-    Image6,
+    'https://static.vecteezy.com/system/resources/previews/022/448/291/non_2x/save-earth-day-poster-environment-day-nature-green-ai-generative-glossy-background-images-tree-and-water-free-photo.jpg',
     'lorem ipsum is very good for dummy text in our project',
   ],
   [
@@ -77,7 +70,7 @@ const sample = [
     '32 in stock',
     '$ 45.99',
     20,
-    Image7,
+    'https://thumbs.dreamstime.com/b/environment-earth-day-hands-trees-growing-seedlings-bokeh-green-background-female-hand-holding-tree-nature-field-gra-130247647.jpg',
     'lorem ipsum is very good for dummy text in our project',
   ],
   [
@@ -85,7 +78,7 @@ const sample = [
     '32 in stock',
     '$ 45.99',
     20,
-    Image1,
+    'https://static.vecteezy.com/system/resources/previews/022/448/291/non_2x/save-earth-day-poster-environment-day-nature-green-ai-generative-glossy-background-images-tree-and-water-free-photo.jpg',
     'lorem ipsum is very good for dummy text in our project',
   ],
   [
@@ -93,7 +86,7 @@ const sample = [
     '32 in stock',
     '$ 45.99',
     20,
-    Image2,
+    'https://thumbs.dreamstime.com/b/environment-earth-day-hands-trees-growing-seedlings-bokeh-green-background-female-hand-holding-tree-nature-field-gra-130247647.jpg',
     'lorem ipsum is very good for dummy text in our project',
   ],
   [
@@ -101,7 +94,7 @@ const sample = [
     '32 in stock',
     '$ 45.99',
     20,
-    Image3,
+    'https://static.vecteezy.com/system/resources/previews/022/448/291/non_2x/save-earth-day-poster-environment-day-nature-green-ai-generative-glossy-background-images-tree-and-water-free-photo.jpg',
     'lorem ipsum is very good for dummy text in our project',
   ],
   [
@@ -109,7 +102,7 @@ const sample = [
     '32 in stock',
     '$ 45.99',
     20,
-    Image4,
+    'https://thumbs.dreamstime.com/b/environment-earth-day-hands-trees-growing-seedlings-bokeh-green-background-female-hand-holding-tree-nature-field-gra-130247647.jpg',
     'lorem ipsum is very good for dummy text in our project',
   ],
   [
@@ -117,7 +110,7 @@ const sample = [
     '32 in stock',
     '$ 45.99',
     20,
-    Image5,
+    'https://static.vecteezy.com/system/resources/previews/022/448/291/non_2x/save-earth-day-poster-environment-day-nature-green-ai-generative-glossy-background-images-tree-and-water-free-photo.jpg',
     'lorem ipsum is very good for dummy text in our project',
   ],
 ]

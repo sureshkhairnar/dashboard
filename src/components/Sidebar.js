@@ -8,7 +8,7 @@ import GroupIcon from '@mui/icons-material/Group'
 import LiveHelpIcon from '@mui/icons-material/LiveHelp'
 import NavigateNextIcon from '@mui/icons-material/NavigateNext'
 import KeyboardArrowDownIcon from '@mui/icons-material/KeyboardArrowDown'
-import ProfileImage from '../images/profile_user.jpg'
+// import ProfileImage from '../images/profile_user.jpg'
 const Sidebar = () => {
   const location = useLocation()
   const isLinkActive = (to) => {
@@ -102,7 +102,9 @@ const Sidebar = () => {
             <Link to={'#'} className={'activeUser'}>
               <div style={{ display: 'flex', alignItems: 'center' }}>
                 <img
-                  src={ProfileImage}
+                  src={
+                    'https://preview.keenthemes.com/metronic-v4/theme/assets/pages/media/profile/profile_user.jpg'
+                  }
                   alt={'Profile Image'}
                   style={{
                     width: '30px',
